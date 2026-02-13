@@ -1,1 +1,2 @@
 SPIN_REPO1
+pkg neofetch 1 pkgs/neofetch.exe
